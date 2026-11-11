@@ -1,0 +1,289 @@
+matricula,nombre,grupo,materia,unidad,calificacion,asistencias
+ISC240100,Ana Lopez,A,Programacion,1,55,5
+ISC240100,Ana Lopez,A,Programacion,2,54,5
+ISC240100,Ana Lopez,A,Programacion,3,50,8
+ISC240100,Ana Lopez,A,Bases de datos,1,76,6
+ISC240100,Ana Lopez,A,Bases de datos,2,73,5
+ISC240100,Ana Lopez,A,Bases de datos,3,74,9
+ISC240100,Ana Lopez,A,Redes,1,99,9
+ISC240100,Ana Lopez,A,Redes,2,79,7
+ISC240100,Ana Lopez,A,Redes,3,67,4
+ISC240100,Ana Lopez,A,Matematicas discretas,1,87,8
+ISC240100,Ana Lopez,A,Matematicas discretas,2,77,8
+ISC240100,Ana Lopez,A,Matematicas discretas,3,79,9
+ISC240101,Carlos Martinez,A,Programacion,1,79,9
+ISC240101,Carlos Martinez,A,Programacion,2,66,8
+ISC240101,Carlos Martinez,A,Programacion,3,67,6
+ISC240101,Carlos Martinez,A,Bases de datos,1,79,10
+ISC240101,Carlos Martinez,A,Bases de datos,2,74,5
+ISC240101,Carlos Martinez,A,Bases de datos,3,66,5
+ISC240101,Carlos Martinez,A,Redes,1,67,5
+ISC240101,Carlos Martinez,A,Redes,2,86,4
+ISC240101,Carlos Martinez,A,Redes,3,67,7
+ISC240101,Carlos Martinez,A,Matematicas discretas,1,99,8
+ISC240101,Carlos Martinez,A,Matematicas discretas,2,89,6
+ISC240101,Carlos Martinez,A,Matematicas discretas,3,77,8
+ISC240102,Sofia Rodriguez,A,Programacion,1,58,4
+ISC240102,Sofia Rodriguez,A,Programacion,2,87,8
+ISC240102,Sofia Rodriguez,A,Programacion,3,68,6
+ISC240102,Sofia Rodriguez,A,Bases de datos,1,87,10
+ISC240102,Sofia Rodriguez,A,Bases de datos,2,59,6
+ISC240102,Sofia Rodriguez,A,Bases de datos,3,52,4
+ISC240102,Sofia Rodriguez,A,Redes,1,69,9
+ISC240102,Sofia Rodriguez,A,Redes,2,76,4
+ISC240102,Sofia Rodriguez,A,Redes,3,81,10
+ISC240102,Sofia Rodriguez,A,Matematicas discretas,1,79,6
+ISC240102,Sofia Rodriguez,A,Matematicas discretas,2,81,7
+ISC240102,Sofia Rodriguez,A,Matematicas discretas,3,62,6
+ISC240103,Diego Hernandez,A,Programacion,1,69,6
+ISC240103,Diego Hernandez,A,Programacion,2,78,9
+ISC240103,Diego Hernandez,A,Programacion,3,80,9
+ISC240103,Diego Hernandez,A,Bases de datos,1,95,8
+ISC240103,Diego Hernandez,A,Bases de datos,2,83,9
+ISC240103,Diego Hernandez,A,Bases de datos,3,70,6
+ISC240103,Diego Hernandez,A,Redes,1,92,9
+ISC240103,Diego Hernandez,A,Redes,2,72,6
+ISC240103,Diego Hernandez,A,Redes,3,62,10
+ISC240103,Diego Hernandez,A,Matematicas discretas,1,79,10
+ISC240103,Diego Hernandez,A,Matematicas discretas,2,71,4
+ISC240103,Diego Hernandez,A,Matematicas discretas,3,74,4
+ISC240104,Valeria Gonzalez,A,Programacion,1,66,5
+ISC240104,Valeria Gonzalez,A,Programacion,2,89,9
+ISC240104,Valeria Gonzalez,A,Programacion,3,61,6
+ISC240104,Valeria Gonzalez,A,Bases de datos,1,82,9
+ISC240104,Valeria Gonzalez,A,Bases de datos,2,90,7
+ISC240104,Valeria Gonzalez,A,Bases de datos,3,74,9
+ISC240104,Valeria Gonzalez,A,Redes,1,84,8
+ISC240104,Valeria Gonzalez,A,Redes,2,54,7
+ISC240104,Valeria Gonzalez,A,Redes,3,65,8
+ISC240104,Valeria Gonzalez,A,Matematicas discretas,1,71,5
+ISC240104,Valeria Gonzalez,A,Matematicas discretas,2,80,8
+ISC240104,Valeria Gonzalez,A,Matematicas discretas,3,48,10
+ISC240105,Javier Perez,A,Programacion,1,79,4
+ISC240105,Javier Perez,A,Programacion,2,79,9
+ISC240105,Javier Perez,A,Programacion,3,76,7
+ISC240105,Javier Perez,A,Bases de datos,1,67,8
+ISC240105,Javier Perez,A,Bases de datos,2,68,7
+ISC240105,Javier Perez,A,Bases de datos,3,40,10
+ISC240105,Javier Perez,A,Redes,1,72,4
+ISC240105,Javier Perez,A,Redes,2,72,8
+ISC240105,Javier Perez,A,Redes,3,64,10
+ISC240105,Javier Perez,A,Matematicas discretas,1,76,4
+ISC240105,Javier Perez,A,Matematicas discretas,2,94,6
+ISC240105,Javier Perez,A,Matematicas discretas,3,57,9
+ISC240106,Lucia Sanchez,A,Programacion,1,84,9
+ISC240106,Lucia Sanchez,A,Programacion,2,74,5
+ISC240106,Lucia Sanchez,A,Programacion,3,85,8
+ISC240106,Lucia Sanchez,A,Bases de datos,1,100,6
+ISC240106,Lucia Sanchez,A,Bases de datos,2,61,10
+ISC240106,Lucia Sanchez,A,Bases de datos,3,59,5
+ISC240106,Lucia Sanchez,A,Redes,1,64,6
+ISC240106,Lucia Sanchez,A,Redes,2,76,10
+ISC240106,Lucia Sanchez,A,Redes,3,54,8
+ISC240106,Lucia Sanchez,A,Matematicas discretas,1,93,7
+ISC240106,Lucia Sanchez,A,Matematicas discretas,2,66,4
+ISC240106,Lucia Sanchez,A,Matematicas discretas,3,79,10
+ISC240107,Fernando Ramirez,A,Programacion,1,86,10
+ISC240107,Fernando Ramirez,A,Programacion,2,73,8
+ISC240107,Fernando Ramirez,A,Programacion,3,74,4
+ISC240107,Fernando Ramirez,A,Bases de datos,1,91,4
+ISC240107,Fernando Ramirez,A,Bases de datos,2,83,10
+ISC240107,Fernando Ramirez,A,Bases de datos,3,63,9
+ISC240107,Fernando Ramirez,A,Redes,1,77,7
+ISC240107,Fernando Ramirez,A,Redes,2,82,8
+ISC240107,Fernando Ramirez,A,Redes,3,67,10
+ISC240107,Fernando Ramirez,A,Matematicas discretas,1,52,8
+ISC240107,Fernando Ramirez,A,Matematicas discretas,2,54,10
+ISC240107,Fernando Ramirez,A,Matematicas discretas,3,69,6
+ISC240108,Mariana Torres,A,Programacion,1,69,7
+ISC240108,Mariana Torres,A,Programacion,2,94,7
+ISC240108,Mariana Torres,A,Programacion,3,69,8
+ISC240108,Mariana Torres,A,Bases de datos,1,69,4
+ISC240108,Mariana Torres,A,Bases de datos,2,78,6
+ISC240108,Mariana Torres,A,Bases de datos,3,86,8
+ISC240108,Mariana Torres,A,Redes,1,80,5
+ISC240108,Mariana Torres,A,Redes,2,95,4
+ISC240108,Mariana Torres,A,Redes,3,71,5
+ISC240108,Mariana Torres,A,Matematicas discretas,1,81,6
+ISC240108,Mariana Torres,A,Matematicas discretas,2,76,4
+ISC240108,Mariana Torres,A,Matematicas discretas,3,60,7
+ISC240109,Roberto Flores,A,Programacion,1,77,5
+ISC240109,Roberto Flores,A,Programacion,2,55,8
+ISC240109,Roberto Flores,A,Programacion,3,65,8
+ISC240109,Roberto Flores,A,Bases de datos,1,56,10
+ISC240109,Roberto Flores,A,Bases de datos,2,79,7
+ISC240109,Roberto Flores,A,Bases de datos,3,72,7
+ISC240109,Roberto Flores,A,Redes,1,83,6
+ISC240109,Roberto Flores,A,Redes,2,62,9
+ISC240109,Roberto Flores,A,Redes,3,77,4
+ISC240109,Roberto Flores,A,Matematicas discretas,1,61,4
+ISC240109,Roberto Flores,A,Matematicas discretas,2,42,4
+ISC240109,Roberto Flores,A,Matematicas discretas,3,60,10
+ISC240110,Andrea Morales,A,Programacion,1,85,4
+ISC240110,Andrea Morales,A,Programacion,2,75,7
+ISC240110,Andrea Morales,A,Programacion,3,78,5
+ISC240110,Andrea Morales,A,Bases de datos,1,69,5
+ISC240110,Andrea Morales,A,Bases de datos,2,80,10
+ISC240110,Andrea Morales,A,Bases de datos,3,82,10
+ISC240110,Andrea Morales,A,Redes,1,71,10
+ISC240110,Andrea Morales,A,Redes,2,71,8
+ISC240110,Andrea Morales,A,Redes,3,69,10
+ISC240110,Andrea Morales,A,Matematicas discretas,1,84,10
+ISC240110,Andrea Morales,A,Matematicas discretas,2,76,10
+ISC240110,Andrea Morales,A,Matematicas discretas,3,71,7
+ISC240111,Alejandro Gomez,A,Programacion,1,91,5
+ISC240111,Alejandro Gomez,A,Programacion,2,94,5
+ISC240111,Alejandro Gomez,A,Programacion,3,49,7
+ISC240111,Alejandro Gomez,A,Bases de datos,1,91,10
+ISC240111,Alejandro Gomez,A,Bases de datos,2,75,10
+ISC240111,Alejandro Gomez,A,Bases de datos,3,57,9
+ISC240111,Alejandro Gomez,A,Redes,1,82,10
+ISC240111,Alejandro Gomez,A,Redes,2,56,5
+ISC240111,Alejandro Gomez,A,Redes,3,63,5
+ISC240111,Alejandro Gomez,A,Matematicas discretas,1,68,8
+ISC240111,Alejandro Gomez,A,Matematicas discretas,2,100,9
+ISC240111,Alejandro Gomez,A,Matematicas discretas,3,49,4
+ISC240112,Brenda Diaz,B,Programacion,1,72,4
+ISC240112,Brenda Diaz,B,Programacion,2,62,10
+ISC240112,Brenda Diaz,B,Programacion,3,62,8
+ISC240112,Brenda Diaz,B,Bases de datos,1,96,4
+ISC240112,Brenda Diaz,B,Bases de datos,2,100,10
+ISC240112,Brenda Diaz,B,Bases de datos,3,77,9
+ISC240112,Brenda Diaz,B,Redes,1,94,10
+ISC240112,Brenda Diaz,B,Redes,2,76,8
+ISC240112,Brenda Diaz,B,Redes,3,77,5
+ISC240112,Brenda Diaz,B,Matematicas discretas,1,75,4
+ISC240112,Brenda Diaz,B,Matematicas discretas,2,73,7
+ISC240112,Brenda Diaz,B,Matematicas discretas,3,61,6
+ISC240113,Daniel Reyes,B,Programacion,1,64,6
+ISC240113,Daniel Reyes,B,Programacion,2,81,5
+ISC240113,Daniel Reyes,B,Programacion,3,90,6
+ISC240113,Daniel Reyes,B,Bases de datos,1,63,6
+ISC240113,Daniel Reyes,B,Bases de datos,2,87,7
+ISC240113,Daniel Reyes,B,Bases de datos,3,61,4
+ISC240113,Daniel Reyes,B,Redes,1,98,4
+ISC240113,Daniel Reyes,B,Redes,2,40,4
+ISC240113,Daniel Reyes,B,Redes,3,82,4
+ISC240113,Daniel Reyes,B,Matematicas discretas,1,63,5
+ISC240113,Daniel Reyes,B,Matematicas discretas,2,71,6
+ISC240113,Daniel Reyes,B,Matematicas discretas,3,90,6
+ISC240114,Carmen Jimenez,B,Programacion,1,60,6
+ISC240114,Carmen Jimenez,B,Programacion,2,88,9
+ISC240114,Carmen Jimenez,B,Programacion,3,91,6
+ISC240114,Carmen Jimenez,B,Bases de datos,1,49,9
+ISC240114,Carmen Jimenez,B,Bases de datos,2,50,8
+ISC240114,Carmen Jimenez,B,Bases de datos,3,94,6
+ISC240114,Carmen Jimenez,B,Redes,1,79,9
+ISC240114,Carmen Jimenez,B,Redes,2,96,6
+ISC240114,Carmen Jimenez,B,Redes,3,86,4
+ISC240114,Carmen Jimenez,B,Matematicas discretas,1,94,5
+ISC240114,Carmen Jimenez,B,Matematicas discretas,2,61,6
+ISC240114,Carmen Jimenez,B,Matematicas discretas,3,68,6
+ISC240115,Gabriel Ruiz,B,Programacion,1,87,5
+ISC240115,Gabriel Ruiz,B,Programacion,2,65,8
+ISC240115,Gabriel Ruiz,B,Programacion,3,46,7
+ISC240115,Gabriel Ruiz,B,Bases de datos,1,78,4
+ISC240115,Gabriel Ruiz,B,Bases de datos,2,100,4
+ISC240115,Gabriel Ruiz,B,Bases de datos,3,54,4
+ISC240115,Gabriel Ruiz,B,Redes,1,60,4
+ISC240115,Gabriel Ruiz,B,Redes,2,72,6
+ISC240115,Gabriel Ruiz,B,Redes,3,76,5
+ISC240115,Gabriel Ruiz,B,Matematicas discretas,1,77,7
+ISC240115,Gabriel Ruiz,B,Matematicas discretas,2,59,8
+ISC240115,Gabriel Ruiz,B,Matematicas discretas,3,75,9
+ISC240116,Paola Ortiz,B,Programacion,1,78,5
+ISC240116,Paola Ortiz,B,Programacion,2,51,8
+ISC240116,Paola Ortiz,B,Programacion,3,63,8
+ISC240116,Paola Ortiz,B,Bases de datos,1,82,6
+ISC240116,Paola Ortiz,B,Bases de datos,2,80,6
+ISC240116,Paola Ortiz,B,Bases de datos,3,89,10
+ISC240116,Paola Ortiz,B,Redes,1,64,4
+ISC240116,Paola Ortiz,B,Redes,2,82,5
+ISC240116,Paola Ortiz,B,Redes,3,65,9
+ISC240116,Paola Ortiz,B,Matematicas discretas,1,96,10
+ISC240116,Paola Ortiz,B,Matematicas discretas,2,89,7
+ISC240116,Paola Ortiz,B,Matematicas discretas,3,91,5
+ISC240117,Ricardo Castro,B,Programacion,1,74,10
+ISC240117,Ricardo Castro,B,Programacion,2,87,5
+ISC240117,Ricardo Castro,B,Programacion,3,90,7
+ISC240117,Ricardo Castro,B,Bases de datos,1,99,6
+ISC240117,Ricardo Castro,B,Bases de datos,2,78,10
+ISC240117,Ricardo Castro,B,Bases de datos,3,91,10
+ISC240117,Ricardo Castro,B,Redes,1,68,9
+ISC240117,Ricardo Castro,B,Redes,2,79,10
+ISC240117,Ricardo Castro,B,Redes,3,60,9
+ISC240117,Ricardo Castro,B,Matematicas discretas,1,99,10
+ISC240117,Ricardo Castro,B,Matematicas discretas,2,92,7
+ISC240117,Ricardo Castro,B,Matematicas discretas,3,74,7
+ISC240118,Daniela Alvarez,B,Programacion,1,100,6
+ISC240118,Daniela Alvarez,B,Programacion,2,67,5
+ISC240118,Daniela Alvarez,B,Programacion,3,92,5
+ISC240118,Daniela Alvarez,B,Bases de datos,1,86,6
+ISC240118,Daniela Alvarez,B,Bases de datos,2,76,6
+ISC240118,Daniela Alvarez,B,Bases de datos,3,92,6
+ISC240118,Daniela Alvarez,B,Redes,1,52,6
+ISC240118,Daniela Alvarez,B,Redes,2,67,10
+ISC240118,Daniela Alvarez,B,Redes,3,60,8
+ISC240118,Daniela Alvarez,B,Matematicas discretas,1,76,6
+ISC240118,Daniela Alvarez,B,Matematicas discretas,2,78,5
+ISC240118,Daniela Alvarez,B,Matematicas discretas,3,40,4
+ISC240119,Hector Vargas,B,Programacion,1,60,4
+ISC240119,Hector Vargas,B,Programacion,2,65,10
+ISC240119,Hector Vargas,B,Programacion,3,63,6
+ISC240119,Hector Vargas,B,Bases de datos,1,43,4
+ISC240119,Hector Vargas,B,Bases de datos,2,90,7
+ISC240119,Hector Vargas,B,Bases de datos,3,77,4
+ISC240119,Hector Vargas,B,Redes,1,73,9
+ISC240119,Hector Vargas,B,Redes,2,61,10
+ISC240119,Hector Vargas,B,Redes,3,76,8
+ISC240119,Hector Vargas,B,Matematicas discretas,1,66,9
+ISC240119,Hector Vargas,B,Matematicas discretas,2,47,9
+ISC240119,Hector Vargas,B,Matematicas discretas,3,75,9
+ISC240120,Natalia Chavez,B,Programacion,1,91,6
+ISC240120,Natalia Chavez,B,Programacion,2,61,4
+ISC240120,Natalia Chavez,B,Programacion,3,57,9
+ISC240120,Natalia Chavez,B,Bases de datos,1,91,9
+ISC240120,Natalia Chavez,B,Bases de datos,2,66,7
+ISC240120,Natalia Chavez,B,Bases de datos,3,61,8
+ISC240120,Natalia Chavez,B,Redes,1,96,5
+ISC240120,Natalia Chavez,B,Redes,2,82,7
+ISC240120,Natalia Chavez,B,Redes,3,88,9
+ISC240120,Natalia Chavez,B,Matematicas discretas,1,78,8
+ISC240120,Natalia Chavez,B,Matematicas discretas,2,67,6
+ISC240120,Natalia Chavez,B,Matematicas discretas,3,50,6
+ISC240121,Manuel Romero,B,Programacion,1,92,6
+ISC240121,Manuel Romero,B,Programacion,2,81,8
+ISC240121,Manuel Romero,B,Programacion,3,92,9
+ISC240121,Manuel Romero,B,Bases de datos,1,72,9
+ISC240121,Manuel Romero,B,Bases de datos,2,88,5
+ISC240121,Manuel Romero,B,Bases de datos,3,47,10
+ISC240121,Manuel Romero,B,Redes,1,76,9
+ISC240121,Manuel Romero,B,Redes,2,78,8
+ISC240121,Manuel Romero,B,Redes,3,75,9
+ISC240121,Manuel Romero,B,Matematicas discretas,1,70,10
+ISC240121,Manuel Romero,B,Matematicas discretas,2,66,10
+ISC240121,Manuel Romero,B,Matematicas discretas,3,71,10
+ISC240122,Elena Castillo,B,Programacion,1,89,5
+ISC240122,Elena Castillo,B,Programacion,2,77,7
+ISC240122,Elena Castillo,B,Programacion,3,73,8
+ISC240122,Elena Castillo,B,Bases de datos,1,81,7
+ISC240122,Elena Castillo,B,Bases de datos,2,71,9
+ISC240122,Elena Castillo,B,Bases de datos,3,52,7
+ISC240122,Elena Castillo,B,Redes,1,69,7
+ISC240122,Elena Castillo,B,Redes,2,69,9
+ISC240122,Elena Castillo,B,Redes,3,74,4
+ISC240122,Elena Castillo,B,Matematicas discretas,1,98,4
+ISC240122,Elena Castillo,B,Matematicas discretas,2,59,10
+ISC240122,Elena Castillo,B,Matematicas discretas,3,63,9
+ISC240123,Miguel Mendoza,B,Programacion,1,82,8
+ISC240123,Miguel Mendoza,B,Programacion,2,59,10
+ISC240123,Miguel Mendoza,B,Programacion,3,74,4
+ISC240123,Miguel Mendoza,B,Bases de datos,1,55,9
+ISC240123,Miguel Mendoza,B,Bases de datos,2,81,8
+ISC240123,Miguel Mendoza,B,Bases de datos,3,87,10
+ISC240123,Miguel Mendoza,B,Redes,1,77,7
+ISC240123,Miguel Mendoza,B,Redes,2,59,8
+ISC240123,Miguel Mendoza,B,Redes,3,57,7
+ISC240123,Miguel Mendoza,B,Matematicas discretas,1,86,5
+ISC240123,Miguel Mendoza,B,Matematicas discretas,2,61,9
+ISC240123,Miguel Mendoza,B,Matematicas discretas,3,79,10
